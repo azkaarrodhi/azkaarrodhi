@@ -27,7 +27,7 @@
 
 ---
 
-I'm a student with a strong interest in web development, especially front-end. I'm currently learning HTML and CSS while working on small projects to sharpen my skills.
+I'm a interest in web development, especially front-end. I'm currently learning HTML and CSS while working on small projects to sharpen my skills.
 I believe learning is a process, and every line of code is a step toward improvement.
   
 ---
