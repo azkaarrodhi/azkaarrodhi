@@ -1,38 +1,63 @@
-<body translate="no" style="display: flex; flex-direction: column; text-align: center; align-items: center; justify-content: center">
-<h1 align="center">Hi there! Welcome to my profile</h1>
-
+<h1 align="center">Hi there, I'm Azka!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1FC2AE&center=true&vCenter=true&width=440&lines=I'm+a+beginner+developer;Learning+web+development;Always+curious+and+creative!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/azkaarrodhi">
+    <img src="https://img.shields.io/github/followers/azkaarrodhi?label=Follow&style=social" />
+  </a>
+  <a href="https://azkaarrodhi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-visit-blue" />
+  </a>
+  <a href="mailto:azkaarrodhi@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-contact-red" />
+  </a>
 </p>
 
 ---
 
 ### About Me
 
-- 🌱 I’m currently learning **HTML, CSS, and basic web dev**
-- 💻 Love to create things from scratch
-- 🎨 Interested in clean and aesthetic UI
-- ☁️ Always open to new knowledge and challenges
+- **Name:** Azka Arrodhi  
+- **Role:** Beginner Web developer
+- **Experience:** 0 Years  
+- **skills:** HTML, CSS, JavaScript, Python.
 
 ---
 
-### Tools I Use
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPCK%20Editor-0078d7?style=flat&logo=SPCK-Editor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-I'm a interest in web development, especially front-end. I'm currently learning HTML and CSS while working on small projects to sharpen my skills.
-I believe learning is a process, and every line of code is a step toward improvement.
-  
----
+### Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azkaarrodhi&style=flat-square&color=lightgray" alt="profile views"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,ps,github" />
 </p>
-  </body>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azkaarrodhi&show_icons=true&theme=radical" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkaarrodhi&theme=radical" alt="Streak" />
+</p>
+
+---
+
+### Let's Connect!
+
+<p align="center">
+  <a href="https://tiktok.com/aazzzzka">
+    <img src="https://img.shields.io/badge/tiktok-blue?logo=tiktok&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/fb.azka">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
