@@ -1,4 +1,4 @@
-<body style="display: flex; flex-direction: column; text-align: center; align-items: center; justify-content: center">
+<body translate="no" style="display: flex; flex-direction: column; text-align: center; align-items: center; justify-content: center">
 <h1 align="center">Hi there! Welcome to my profile</h1>
 
 <p align="center">
